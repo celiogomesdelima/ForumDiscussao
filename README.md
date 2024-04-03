@@ -49,7 +49,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-5. Acesse o aplicativo em seu navegador em [http://localhost:5000/](http://localhost:5000/).
+5. Acesse o aplicativo em seu navegador em (https://forumdiscussao-production.up.railway.app/)
 
 ## Contribuindo
 
